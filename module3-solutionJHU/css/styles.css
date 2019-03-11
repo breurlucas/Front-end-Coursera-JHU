@@ -1,0 +1,45 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #a82424;
+	font-size: 16px;
+	font-family: 'Ubuntu', sans-serif;*/
+}
+
+/*HEADER*/
+#header-nav {
+	background-color: #f04242;
+	height: 150px;
+}
+
+#logo-img {
+	background: url('../assets/kangaroo.png') no-repeat;
+	height: 130px;
+	width: 130px;
+	background-size: cover;
+}
+
+.navbar-brand h1 {
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 2em;
+	text-shadow: 2px 2px #1a1a1a;
+	color: #ffb366;
+	margin-top: 0;
+	margin-bottom: 0
+}
+
+.navbar-brand p {
+	font-family: 'Alfa Slab One', cursive;
+	text-transform: uppercase;
+	color: #1a1a1a;
+	margin-top: 0;
+	margin-bottom: 0
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
