@@ -11,9 +11,8 @@ body {
 }
 
 /*HEADER*/
-#header-nav {
-	background-color: #f04242;
-	height: 150px;
+.navbar {
+	background-color: #b8b894;
 }
 
 #logo-img {
@@ -25,7 +24,7 @@ body {
 
 .navbar-brand h1 {
 	font-family: 'Alfa Slab One', cursive;
-	font-size: 2em;
+	font-size: 1.5em;
 	text-shadow: 2px 2px #1a1a1a;
 	color: #ffb366;
 	margin-top: 0;
@@ -35,6 +34,7 @@ body {
 .navbar-brand p {
 	font-family: 'Alfa Slab One', cursive;
 	text-transform: uppercase;
+	font-size: 0.8em;
 	color: #1a1a1a;
 	margin-top: 0;
 	margin-bottom: 0
@@ -42,4 +42,64 @@ body {
 
 .navbar-brand a:hover, .navbar-brand a:focus {
 	text-decoration: none;
+}
+
+.navbar-toggler{
+	border: 0px;
+	background-color: #b8b894;
+}
+
+/*From the Aussies to you!*/
+body > h1 {
+	font-size: 2em;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	color: #ffb366;
+	text-shadow: 2px 2px #1a1a1a;
+}
+
+.row {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.row > div{
+	margin-bottom: 30px;
+	padding-right: 15px;
+	padding-left: 15px;
+	background: #ffb366 content-box;
+	position: relative;
+}
+
+.row h2 {
+	font-family: 'Alfa Slab One', cursive;
+	font-size: 1.5em;
+	color: #1a1a1a;
+	margin-top: 15px;
+}
+
+/*div[name="image1"] {
+	height: 200px;
+	background: url('../assets/dish1.jpg') no-repeat;
+	background-size: cover;
+	position: absolute;
+	bottom: 10px;
+	right: 25px;
+	left: 25px;
+}
+
+div[name="image2"] {
+	height: 200px;
+	background: url('../assets/dish2.jpg') no-repeat;
+	background-size: cover;
+	position: absolute;
+	bottom: 10px;
+	right: 25px;
+	left: 25px;
+}*/
+
+.row div p {
+	padding: 20px;
+	background-color: #ffb366;
 }
