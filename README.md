@@ -17,4 +17,4 @@ Two responsive websites were created during the course: the first one with no fr
 
 ![DesktopView](module3-solutionJHU/screen-capture/img1.png?raw=true)
 
-<div><img src=https://github.com/breurlucas/Front-end-Coursera-JHU/blob/master/module3-solutionJHU/screen-capture/img2.png alt="TabletView" height="700" margin="50"/> &nbsp;<img src=https://github.com/breurlucas/Front-end-Coursera-JHU/blob/master/module3-solutionJHU/screen-capture/img3.png alt="MobileView" height="700"/></div>
+<div><img src="https://github.com/breurlucas/Front-end-Coursera-JHU/blob/master/module3-solutionJHU/screen-capture/img2.png" alt="TabletView" height="700" margin="50"/>&nbsp;<img src="https://github.com/breurlucas/Front-end-Coursera-JHU/blob/master/module3-solutionJHU/screen-capture/img3.png" alt="MobileView" height="700"/></div>
