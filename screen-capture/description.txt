@@ -1,0 +1,3 @@
+img1 Desktop view
+img2 Tablet view
+img3 Mobile view
