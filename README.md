@@ -1,5 +1,15 @@
-## Front-End course for Web Developers
+## Content
 
-This course is an introduction to HTML, CSS and Javascript. It also dabbles in Bootstrap and Ajax.
+This repository contains my solutions to the exercises proposed in the Front-end course for Web Developers from the Johns Hopkins University. The course is available online, for free, at [this link](https://www.coursera.org/learn/html-css-javascript-for-web-developers?).
 
-[Click here to go to the course](https://www.coursera.org/learn/html-css-javascript-for-web-developers?)
+### Subjects
+
+Introduction to:
+- HTML
+- CSS
+- Javascript
+
+Basics of:
+- Bootstrap
+- Ajax
+
